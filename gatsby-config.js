@@ -1,11 +1,11 @@
 module.exports = {
   siteMetadata: {
-    siteTitle: `Rocket Docs`,
-    defaultTitle: `Rocket Docs`,
-    siteTitleShort: `Rocket Docs`,
-    siteDescription: `Out of the box Gatsby Theme for creating documentation websites easily and quickly`,
-    siteUrl: `https://rocketdocs.netlify.app`,
-    siteAuthor: `@rocketseat`,
+    siteTitle: `Team Central Docs`,
+    defaultTitle: `Team Central Docs`,
+    siteTitleShort: `Team Central Docs`,
+    siteDescription: `Documentation for TeamCentral.io`,
+    siteUrl: `https://docs.teamcentral.io`,
+    siteAuthor: `@teamcentral.io`,
     siteImage: `/banner.png`,
     siteLanguage: `en`,
     themeColor: `#8257E6`,
@@ -25,8 +25,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Rocketseat Gatsby Themes`,
-        short_name: `RS Gatsby Themes`,
+        name: `Team Central Docs`,
+        short_name: `TC Docs`,
         start_url: `/`,
         background_color: `#ffffff`,
         display: `standalone`,
@@ -44,7 +44,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-canonical-urls`,
       options: {
-        siteUrl: `https://rocketdocs.netlify.com`,
+        siteUrl: `https://docs.teamcentral.io`,
       },
     },
     `gatsby-plugin-offline`,
