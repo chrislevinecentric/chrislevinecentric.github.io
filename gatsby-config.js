@@ -18,8 +18,7 @@ module.exports = {
       options: {
         configPath: `src/config`,
         docsPath: `src/docs`,
-        repositoryUrl: `https://github.com/rocketseat/gatsby-themes`,
-        baseDir: `examples/gatsby-theme-docs`,
+        repositoryUrl: `https://github.com/chrislevinecentric/chrislevinecentric.github.io`,
       },
     },
     {
@@ -31,6 +30,7 @@ module.exports = {
         background_color: `#ffffff`,
         display: `standalone`,
         icon: `static/favicon.png`,
+        cache_busting_mode: `query`,
       },
     },
     `gatsby-plugin-sitemap`,

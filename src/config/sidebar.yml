@@ -10,11 +10,7 @@
       link: '/usage/creating-docs'
     - label: 'Navigation'
       link: '/usage/navigation'
-    - label: 'Shadowing'
-      link: '/usage/shadowing'
 - label: More
   items:
-    - label: FAQ
-      link: /faq
     - label: 'Github'
-      link: https://github.com/rocketseat/gatsby-themes
+      link: https://github.com/chrislevinecentric/chrislevinecentric.github.io
