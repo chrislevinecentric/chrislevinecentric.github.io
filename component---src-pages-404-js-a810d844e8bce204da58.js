@@ -1,0 +1,2 @@
+(self.webpackChunkteamcentral_docs=self.webpackChunkteamcentral_docs||[]).push([[883],{59616:function(t,e,n){"use strict";n.r(e),n.d(e,{default:function(){return l}});n(67294);var o=n(25444),u=n(23120),a=n(49035),c=n(23431);function l(){return(0,c.tZ)(u.Z,{title:"Page not found!"},(0,c.tZ)(a.Z,{title:"404: Not found"}),(0,c.tZ)("p",null,"You just hit a route that doesn't exist..."),(0,c.tZ)("p",null,"If you'd like to go back to homepage, ",(0,c.tZ)(o.Link,{to:"/"},"click here"),"."))}}}]);
+//# sourceMappingURL=component---src-pages-404-js-a810d844e8bce204da58.js.map
