@@ -12,5 +12,7 @@
       link: '/usage/navigation'
 - label: More
   items:
-    - label: 'Github'
+    - label: 'Github Repo'
       link: https://github.com/chrislevinecentric/chrislevinecentric.github.io
+    - label: 'TeamCentral.io'
+      link: https://teamcentral.io

@@ -1,11 +1,11 @@
 {
-  "name": "gatsby-starter-rocket-docs",
+  "name": "teamcentral-docs",
   "private": true,
   "version": "1.0.0",
-  "description": "Out of the box Gatsby Starter for creating documentation websites easily and quickly. With support for MDX, code highlight, Analytics, SEO and more",
-  "author": "João Pedro Schmitz <hey@joaopedro.dev> (@jpedroschmitz)",
+  "description": "teamcentral.io documentation",
+  "author": "@teamcentral",
   "license": "MIT",
-  "starter-name": "gatsby-starter-rocket-docs",
+  "starter-name": "teamcentral-docs",
   "dependencies": {
     "@rocketseat/gatsby-theme-docs": "^2.3.0",
     "gatsby": "^3.0.4",
